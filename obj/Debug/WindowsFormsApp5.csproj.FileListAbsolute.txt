@@ -1,0 +1,12 @@
+E:\Проект по классификации млекопитающих 2.0\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+E:\Проект по классификации млекопитающих 2.0\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+E:\Проект по классификации млекопитающих 2.0\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+E:\Проект по классификации млекопитающих 2.0\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+E:\Проект по классификации млекопитающих 2.0\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+E:\Проект по классификации млекопитающих 2.0\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.MainForm.resources
+E:\Проект по классификации млекопитающих 2.0\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+E:\Проект по классификации млекопитающих 2.0\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+E:\Проект по классификации млекопитающих 2.0\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+E:\Проект по классификации млекопитающих 2.0\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+E:\Проект по классификации млекопитающих 2.0\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+E:\Проект по классификации млекопитающих 2.0\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.FormInfo.resources
